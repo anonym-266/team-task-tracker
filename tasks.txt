@@ -1,0 +1,4 @@
+ - Create a repository
+ - Add readme flie
+ - clone repository
+ - Add Txt file and directory containing files
